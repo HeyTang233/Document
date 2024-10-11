@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "78ba958e4a4e2340",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java/java.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Java/java.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Java/java.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Java/java.md"
               }
             }
           },
@@ -155,9 +168,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "869df24ac6e638f6",
+  "active": "bbeaa745c247308e",
   "lastOpenFiles": [
     "README.md",
+    "Java/java.md",
+    "未命名",
+    "Java",
     "欢迎.md",
     "Document/README.md",
     "Document"
